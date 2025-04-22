@@ -1,0 +1,85 @@
+=========================
+Company Internal Document
+Version: 1.2 | Updated: March 2025
+=========================
+
+SECTION 1: EMPLOYEE WORKING HOURS AND LEAVE POLICY
+
+Employees are required to work 40 hours per week, typically Monday through Friday. Core working hours are 10:00 AM to 4:00 PM. Outside of these hours, employees may arrange flexible schedules with prior supervisor approval. Remote work is permitted up to 3 days per week.
+
+All employees are entitled to:
+- 15 paid vacation days per calendar year.
+- 5 paid sick days.
+- Unused vacation days can roll over up to a maximum of 5 days.
+- National holidays are automatically granted and do not count against vacation.
+
+Leave requests should be submitted via the HR portal at least 7 days in advance for planned vacations and immediately for unplanned absences such as illness.
+
+---
+
+SECTION 2: INCIDENT REPORTING PROCEDURE
+
+In the event of a workplace incident (e.g., injury, equipment failure, policy violation), follow these steps:
+
+1. Ensure safety and call emergency services if needed.
+2. Notify your supervisor or department head.
+3. Complete the Incident Report Form available on the company intranet within 24 hours.
+4. Submit any photographic evidence if applicable.
+5. HR will conduct a review and follow-up within 3 business days.
+
+Failure to report incidents in a timely manner may result in disciplinary action.
+
+---
+
+SECTION 3: PRODUCT FAQ – ACME SMARTWATCH
+
+Q: How long does the battery last?  
+A: The battery lasts up to 48 hours with regular use.
+
+Q: Is the Acme SmartWatch waterproof?  
+A: It is water-resistant up to 50 meters, making it safe for swimming but not for diving.
+
+Q: What devices are supported?  
+A: Compatible with both iOS (13.0+) and Android (10.0+) via the Acme Wear app.
+
+Q: How do I reset the SmartWatch?  
+A: Hold the side button for 10 seconds until the logo appears, then release.
+
+Q: Can it track sleep and heart rate?  
+A: Yes, it provides 24/7 heart rate monitoring and detailed sleep cycle analysis.
+
+---
+
+SECTION 4: SCIENCE DIGEST – PHOTOSYNTHESIS
+
+Photosynthesis is the process by which plants produce energy in the form of glucose. This occurs in the chloroplasts of plant cells, where sunlight is used to convert water and carbon dioxide into sugar and oxygen.
+
+Chemical Equation:
+6CO₂ + 6H₂O + sunlight → C₆H₁₂O₆ + 6O₂
+
+The process is essential not just for plants but for all living organisms, as it forms the base of most food chains and produces the oxygen we breathe.
+
+Fun Fact: Only about 1% of the sunlight that hits a leaf is used in photosynthesis—the rest is reflected or lost as heat.
+
+---
+
+SECTION 5: TRAVEL GUIDE EXCERPT – KYOTO, JAPAN
+
+Kyoto, once the imperial capital of Japan, is a cultural treasure trove. Visitors flock to experience ancient temples, serene gardens, and vibrant street markets.
+
+Top Attractions:
+- **Fushimi Inari Shrine**: Famous for its thousands of red torii gates.
+- **Arashiyama Bamboo Grove**: A surreal forest of towering bamboo.
+- **Kinkaku-ji**: The Golden Pavilion, a Zen temple covered in gold leaf.
+
+Recommended Travel Time:  
+Visit during March–April for cherry blossoms, or October–November for fall foliage.
+
+Getting Around:  
+Use the Kyoto City Bus or rent a bicycle. The city is compact and bike-friendly.
+
+Local Tip:  
+Try matcha (green tea) ice cream and take part in a traditional tea ceremony.
+
+---
+
