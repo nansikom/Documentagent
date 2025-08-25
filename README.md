@@ -1,6 +1,6 @@
-# Document Q&A with Google Gemini
+# Leveraging The Power Of The Gemini API With Prompt Engineering <img src="https://ai.google.dev/static/site-assets/images/share.png" alt="Google Gemini Logo" width="30" height="30">
 
-This project allows you to query your local documents using the **Google Gemini API**. It reads all files in a `documents/` folder, sends their content to Gemini, and answers user questions based on the information within those documents.
+This project allows you to query your local documents using the **Google Gemini API** with advanced prompt engineering techniques. It reads all files in a `documents/` folder, sends their content to Gemini with optimized prompts, and answers user questions based on the information within those documents.
 
 ## 🚀 Features
 
