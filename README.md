@@ -5,7 +5,7 @@ It reads all files in a `documents/` folder, sends their content to Gemini, and 
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 - Reads and aggregates all files inside the `documents/` directory
 - Passes the content to Google Gemini (`gemini-2.0-flash` model)
 - Answers questions using the context from your documents
@@ -13,11 +13,11 @@ It reads all files in a `documents/` folder, sends their content to Gemini, and 
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ---
 
-## ⚙️ Setup
+# ⚙️ Setup
 
 1. **Clone the repo**
    ```bash
