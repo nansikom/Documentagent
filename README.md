@@ -1,4 +1,4 @@
-**Document Q&A with Google Gemini**
+**Document Q&A with Google Gemini
 
 This project allows you to query your local documents using the **Google Gemini API**.  
 It reads all files in a `documents/` folder, sends their content to Gemini, and answers user questions based on the information within those documents.
