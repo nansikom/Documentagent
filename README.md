@@ -21,7 +21,7 @@ It reads all files in a `documents/` folder, sends their content to Gemini, and 
    ```bash
    git clone <your-repo-url>
    cd <your-repo-name>
-Install dependencies
+**Install dependencies**
 
 npm install
 
@@ -32,7 +32,7 @@ Create a .env file in the root directory and add your Gemini API key:
 GEMINI_API_KEY=your_api_key_here
 
 
-Add your documents
+**Add your documents**
 Put your text files inside the documents/ folder.
 Example:
 
@@ -52,7 +52,7 @@ import { askGemini } from './index.js';
   console.log("Gemini Answer:", answer);
 })();
 
-📦 Dependencies
+**📦 Dependencies**
 
 @google/genai
 
@@ -60,7 +60,7 @@ dotenv
 
 Node.js built-in modules: path, fs/promises
 
-🔒 Notes
+**🔒 Notes**
 
 Make sure .env is in your .gitignore to avoid exposing your API key.
 
