@@ -1,11 +1,11 @@
-# Document Q&A with Google Gemini
+** Document Q&A with Google Gemini
 
 This project allows you to query your local documents using the **Google Gemini API**.  
 It reads all files in a `documents/` folder, sends their content to Gemini, and answers user questions based on the information within those documents.
 
 ---
 
-# 🚀 Features
+** 🚀 Features
 - Reads and aggregates all files inside the `documents/` directory
 - Passes the content to Google Gemini (`gemini-2.0-flash` model)
 - Answers questions using the context from your documents
@@ -13,13 +13,13 @@ It reads all files in a `documents/` folder, sends their content to Gemini, and 
 
 ---
 
-# 📂 Project Structure
+** 📂 Project Structure
 
 ---
 
-# ⚙️ Setup
+** ⚙️ Setup
 
-1. **Clone the repo**
+1. ** Clone the repo**
    ```bash
    git clone <your-repo-url>
    cd <your-repo-name>
