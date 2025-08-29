@@ -34,7 +34,8 @@ cd <your-repo-name>
 ### Install Dependencies
 
 ```bash
-npm install
+This initialises npm for your environment
+npm init -y
 ```
 
 ### Set Up Environment Variables
@@ -84,19 +85,40 @@ import { askGemini } from './index.js';
 
 ## 📌 Example
 
-### documents/file1.txt
+### documents/file1.txt.All these files can be fed to the Gemini api even with a database if larger documents need analysis
 ```
-OpenAI was founded in 2015.
+SECTION 1: EMPLOYEE WORKING HOURS AND LEAVE POLICY
+
+Employees are required to work 40 hours per week, typically Monday through Friday. Core working hours are 10:00 AM to 4:00 PM. Outside of these hours, employees may arrange flexible schedules with prior supervisor approval. Remote work is permitted up to 3 days per week.
+
+All employees are entitled to:
+- 15 paid vacation days per calendar year.
+- 5 paid sick days.
+- Unused vacation days can roll over up to a maximum of 5 days.
+- National holidays are automatically granted and do not count against vacation.
+
+Leave requests should be submitted via the HR portal at least 7 days in advance for planned vacations and immediately for unplanned absences such as illness.
+
+---
+
 ```
 
 ### User Question:
 ```
-When was OpenAI founded?
+When are the employee working hours ?
 ```
 
 ### Gemini Answer:
 ```
-OpenAI was founded in 2015.
+Employees are required to work 40 hours per week, typically Monday through Friday. Core working hours are 10:00 AM to 4:00 PM. Outside of these hours, employees may arrange flexible schedules with prior supervisor approval. Remote work is permitted up to 3 days per week.
+
+All employees are entitled to:
+- 15 paid vacation days per calendar year.
+- 5 paid sick days.
+- Unused vacation days can roll over up to a maximum of 5 days.
+- National holidays are automatically granted and do not count against vacation.
+
+Leave requests should be submitted via the HR portal at least 7 days in advance for planned vacations and immediately for unplanned absences such as illness..
 ```
 
 ## 🚀 Quick Start
